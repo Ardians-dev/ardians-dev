@@ -12,6 +12,8 @@ Hi! I'm Ardianyah — a self-taught developer from Indonesia.  <br>Currently foc
 ---
 [![](https://visitcount.itsvg.in/api?id=Ardians-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ardians-dev/github-readme-stats)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img src="https://raw.githubusercontent.com/Ardians-dev/Ardians-dev/output/snake.svg" alt="Snake animation" />
